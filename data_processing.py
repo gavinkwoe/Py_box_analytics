@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import pandas as pd
 import numpy as np
 import datetime
@@ -33,7 +35,7 @@ for phone_id in prob_request['Source(SA)'].unique():
 	
 	# perform analyses for an invidual phone_id
 	instance = prob_request[prob_request['Source(SA)'] == phone_id].reset_index(drop=True, inplace=True)
-	# print instance # data frame with data of one phone_id
+	# print instance # data frame with data of one phone_id)
 	visits = [{'start_time':pd.datetime(2012,1,1), 'end_time':pd.datetime(2012,1,1)}]
 	
 	for row_index, row in instance.iterrows():
