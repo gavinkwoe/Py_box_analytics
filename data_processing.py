@@ -3,6 +3,7 @@
 import pandas as pd
 import numpy as np
 import datetime
+import MySQLdb
 
 # parameters setup
 max_ping_interval    = 120      		# max interval allowed between pings in the same visit, in seconds
@@ -10,23 +11,29 @@ sig_str_threshold    = -60     			# signal strength above which walk-in is likel
 dwell_time_threshold = 60      			# dwell time above which walk-in is likely, in seconds
 walk_in_rule		 = 'walk_in_r2'		# select rule walk_in_rX, x in [1,2,3], to filter out walk_in from those who didn't
 
-# data input and cleaning
-parse = lambda x: pd.datetools.dateutil.parser.parse(x, yearfirst=True)
+# read raw data from MySQL table: box_upload
+con = MySQLdb.connect("localhost","guest","guest123","TEST" )
+cur = con.cursor()
+cmd = "SELECT * FROM box_upload"#LIMIT 0, 10"
 
-data = pd.read_csv('/Users/yannanwang/Dropbox/UntapBox/Outputs/box data 17k rows v3.1.csv',\
-	   sep=',', parse_dates=[[0,1]], date_parser=parse)
-# data  = pd.read_csv('/Users/yannanwang/Dropbox/UntapBox/Outputs/box data v3.1.csv',\
-	   # sep=',', parse_dates=[[0,1]], date_parser=parse)
-prob_request = data[data['Type'].isin(['PREQ'])].reset_index(drop=True, inplace=True)
+try:
+   cur.execute(cmd)
+   results = cur.fetchall()
+   raw = pd.DataFrame(list(results), columns=['SQL_ID','Ping_Date', 'Ping_Time', 'Strength', 'BSSID', 'Destination(DA)', 'Source(SA)', 'Type'])
+
+except:
+   print 'Error: Something went wrong while importing data from MySQL DB'
+
+parse_datetime   = lambda x: pd.datetools.dateutil.parser.parse(x, yearfirst=True)
+raw['Date_Time'] = raw['Ping_Date'].map(str) + ' ' + raw['Ping_Time']
+raw['Date_Time'] = raw['Date_Time'].apply(parse_datetime)
+raw 			 = raw.drop(['SQL_ID','Ping_Date','Ping_Time','BSSID','Destination(DA)'], axis=1)
+raw 			 = raw.reindex(columns=['Date_Time','Strength','Source(SA)','Type'])
+# print raw   # rawdata from mysql after quick cleaning
+
+prob_request = raw[raw['Type'].isin(['PREQ'])].reset_index(drop=True, inplace=True)
 # print data # raw data
 # print prob_request # filtered out prob_requests
-
-# # summary calculation using groups
-# group_data = prob_request.groupby('Source(SA)')
-# print prob_request
-# print dict(list(group_data))['00:1e:8f:d0:a4:05']
-# print group_data['Strength'].agg([np.max, np.min, np.mean, np.std])
-# print group_data['Strength']
 
 clean = pd.DataFrame()
 
@@ -62,7 +69,7 @@ for phone_id in prob_request['Source(SA)'].unique():
 
 # add mean signal strengh as a new column
 f_mean = lambda x: np.array(x).mean()
-clean['avg_sig'] = clean['sig_str'].apply(f_mean)
+clean['avg_str'] = clean['sig_str'].apply(f_mean)
 
 # apply rules to differeciate walk_in and pass_by, add flags to new columns
 rule_1 = lambda x: True if x['dwell_time'] > dwell_time_threshold else False
@@ -75,7 +82,23 @@ clean['walk_in_r3'] = clean.apply(rule_3, axis=1)
 # add time bracket column, to be used for later aggregation
 find_bracket = lambda x: x - datetime.timedelta(minutes=x.minute % 3, seconds=x.second, microseconds=x.microsecond)
 clean['t_bracket'] = clean['start_time'].apply(find_bracket)
-# print clean[:99]
+# print clean[:99] # clean before dropping columns and reindexing
+
+clean = clean.drop('sig_str', axis=1).reindex(columns=['phone_id','start_time', 'end_time','dwell_time',\
+													   'max_str','avg_str','walk_in_r1','walk_in_r2','walk_in_r3','t_bracket'])
+print clean[:99] #clean after all cleaning and format change
+
+cmd = """INSERT INTO clean(phone_id,start_time,end_time,dwell_time, \
+				           max_str,avg_str,walk_in_r1,walk_in_r2,walk_in_r3,t_bracket) \
+		 VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
+
+# write clean into MySQL table: clean
+for row_index, row in clean.iterrows():
+	cur.execute(cmd,(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9]))
+	
+	con.commit()
+
+con.close()
 
 # preparing data into plottable formant
 # walk_in: people came in store; pass_by: people pass by but didn't come in; walk_in + pass_by = total visits
