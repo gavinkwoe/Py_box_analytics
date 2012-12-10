@@ -1,0 +1,702 @@
+E8:E7:32	Alcatel-Lucent
+D4:E3:3F	Alcatel-Lucent
+90:67:B5	Alcatel-Lucent
+90:3A:A0	Alcatel-Lucent
+70:25:26	Alcatel-Lucent
+4C:C9:4F	Alcatel-Lucent
+4C:5F:D2	Alcatel-Lucent
+48:F7:F1	Alcatel-Lucent
+34:AA:99	Alcatel-Lucent
+14:3E:60	Alcatel-Lucent
+04:0A:83	Alcatel-Lucent
+00:21:35	ALCATEL-LUCENT
+00:21:05	Alcatel-Lucent
+00:1D:4C	Alcatel-Lucent
+00:17:CC	Alcatel-Lucent
+38:52:1A	Alcatel-Lucent 7705
+00:21:AE	ALCATEL-LUCENT FRANCE - WTD
+00:25:BA	Alcatel-Lucent IPD
+00:1C:8E	Alcatel-Lucent IPD
+E0:30:05	"Alcatel-Lucent Shanghai Bell Co., Ltd"
+AC:9C:E4	"Alcatel-Lucent Shanghai Bell Co., Ltd"
+A8:AD:3D	"Alcatel-Lucent Shanghai Bell Co., Ltd"
+18:80:F5	"Alcatel-Lucent Shanghai Bell Co., Ltd"
+F8:30:94	Alcatel-Lucent Telecom Limited
+6C:BE:E9	Alcatel-Lucent-IPD
+24:AF:4A	Alcatel-Lucent-IPD
+00:23:3E	Alcatel-Lucent-IPD
+00:E0:B1	"Alcatel-Lucent, Enterprise Business Group"
+00:D0:95	"Alcatel-Lucent, Enterprise Business Group"
+00:11:8B	"Alcatel-Lucent, Enterprise Business Group"
+E4:8B:7F	Apple
+D8:D1:CB	Apple
+D8:00:4D	Apple
+B4:F0:AB	Apple
+A8:FA:D8	Apple
+9C:04:EB	Apple
+98:B8:E3	Apple
+88:53:95	Apple
+84:FC:FE	Apple
+80:92:9F	Apple
+5C:96:9D	Apple
+54:26:96	Apple
+10:DD:B1	Apple
+04:F7:E4	Apple
+F0:DC:E2	Apple Inc
+E0:C9:7A	Apple Inc
+C0:9F:42	Apple Inc
+BC:67:78	Apple Inc
+BC:52:B7	Apple Inc
+B0:65:BD	Apple Inc
+A8:20:66	Apple Inc
+9C:20:7B	Apple Inc
+98:FE:94	Apple Inc
+8C:FA:BA	Apple Inc
+8C:2D:AA	Apple Inc
+84:85:06	Apple Inc
+84:29:99	Apple Inc
+80:49:71	Apple Inc
+7C:D1:C3	Apple Inc
+74:E2:F5	Apple Inc
+70:56:81	Apple Inc
+6C:3E:6D	Apple Inc
+68:96:7B	Apple Inc
+5C:95:AE	Apple Inc
+44:4C:0C	Apple Inc
+20:C9:D0	Apple Inc
+18:9E:FC	Apple Inc
+14:10:9F	Apple Inc
+F8:1E:DF	"Apple, Inc"
+D8:30:62	"Apple, Inc"
+D4:9A:20	"Apple, Inc"
+C8:2A:14	"Apple, Inc"
+90:84:0D	"Apple, Inc"
+7C:6D:62	"Apple, Inc"
+64:B9:E8	"Apple, Inc"
+60:FB:42	"Apple, Inc"
+58:B0:35	"Apple, Inc"
+40:D3:2D	"Apple, Inc"
+34:15:9E	"Apple, Inc"
+04:1E:64	"Apple, Inc"
+00:26:BB	"Apple, Inc"
+00:26:B0	"Apple, Inc"
+00:26:4A	"Apple, Inc"
+00:26:08	"Apple, Inc"
+00:25:BC	"Apple, Inc"
+00:25:4B	"Apple, Inc"
+00:25:00	"Apple, Inc"
+00:24:36	"Apple, Inc"
+00:23:DF	"Apple, Inc"
+00:23:6C	"Apple, Inc"
+00:23:32	"Apple, Inc"
+00:23:12	"Apple, Inc"
+00:22:41	"Apple, Inc"
+00:21:E9	"Apple, Inc"
+00:1F:F3	"Apple, Inc"
+00:1E:C2	"Apple, Inc"
+00:1C:B3	"APPLE, INC"
+00:10:FA	"Apple, Inc"
+FC:25:3F	"Apple, Inc."
+F0:CB:A1	"Apple, Inc."
+F0:B4:79	"Apple, Inc."
+EC:85:2F	"Apple, Inc."
+E8:06:88	"Apple, Inc."
+E8:04:0B	"Apple, Inc."
+E4:CE:8F	"Apple, Inc."
+E0:F8:47	"Apple, Inc."
+E0:B9:BA	"Apple, Inc."
+DC:2B:61	"Apple, Inc."
+D8:A2:5E	"Apple, Inc."
+D8:9E:3F	"Apple, Inc."
+D0:23:DB	"Apple, Inc."
+CC:08:E0	"Apple, Inc."
+C8:BC:C8	"Apple, Inc."
+C8:33:4B	"Apple, Inc."
+C4:2C:03	"Apple, Inc."
+C0:84:7A	"Apple, Inc."
+B8:FF:61	"Apple, Inc."
+B8:F6:B1	"Apple, Inc."
+B8:C7:5D	"Apple, Inc."
+B8:8D:12	"Apple, Inc."
+B8:17:C2	"Apple, Inc."
+A4:D1:D2	"Apple, Inc."
+A4:B1:97	"Apple, Inc."
+A4:67:06	"Apple, Inc."
+98:D6:BB	"Apple, Inc."
+98:03:D8	"Apple, Inc."
+90:27:E4	"Apple, Inc."
+8C:7B:9D	"Apple, Inc."
+8C:58:77	"Apple, Inc."
+88:C6:63	"Apple, Inc."
+7C:F0:5F	"Apple, Inc."
+7C:C5:37	"Apple, Inc."
+7C:C3:A1	"Apple, Inc."
+7C:11:BE	"Apple, Inc."
+78:CA:39	"Apple, Inc."
+78:A3:E4	"Apple, Inc."
+74:E1:B6	"Apple, Inc."
+70:DE:E2	"Apple, Inc."
+70:CD:60	"Apple, Inc."
+70:73:CB	"Apple, Inc."
+6C:C2:6B	"Apple, Inc."
+68:A8:6D	"Apple, Inc."
+68:09:27	"Apple, Inc."
+64:E6:82	"Apple, Inc."
+64:20:0C	"Apple, Inc."
+60:FA:CD	"Apple, Inc."
+60:C5:47	"Apple, Inc."
+60:33:4B	"Apple, Inc."
+5C:59:48	"Apple, Inc."
+58:55:CA	"Apple, Inc."
+58:1F:AA	"Apple, Inc."
+50:EA:D6	"Apple, Inc."
+4C:B1:99	"Apple, Inc."
+48:60:BC	"Apple, Inc."
+44:D8:84	"Apple, Inc."
+44:2A:60	"Apple, Inc."
+40:A6:D9	"Apple, Inc."
+40:6C:8F	"Apple, Inc."
+40:3C:FC	"Apple, Inc."
+40:30:04	"Apple, Inc."
+3C:D0:F8	"Apple, Inc."
+3C:07:54	"Apple, Inc."
+34:51:C9	"Apple, Inc."
+28:E7:CF	"Apple, Inc."
+28:E0:2C	"Apple, Inc."
+28:CF:DA	"Apple, Inc."
+28:6A:BA	"Apple, Inc."
+28:6A:B8	"Apple, Inc."
+28:37:37	"Apple, Inc."
+24:AB:81	"Apple, Inc."
+1C:AB:A7	"Apple, Inc."
+18:E7:F4	"Apple, Inc."
+18:34:51	"Apple, Inc."
+18:20:32	"Apple, Inc."
+14:8F:C6	"Apple, Inc."
+14:5A:05	"Apple, Inc."
+10:9A:DD	"Apple, Inc."
+10:93:E9	"Apple, Inc."
+10:40:F3	"Apple, Inc."
+0C:77:1A	"Apple, Inc."
+0C:74:C2	"Apple, Inc."
+04:54:53	"Apple, Inc."
+04:0C:CE	"Apple, Inc."
+00:F4:B9	"Apple, Inc."
+00:C6:10	"Apple, Inc."
+00:3E:E1	"Apple, Inc."
+00:1F:5B	"Apple, Inc."
+B0:AA:36	"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD."
+F8:DB:7F	HTC Corporation
+E8:99:C4	HTC Corporation
+D8:B3:77	HTC Corporation
+D4:20:6D	HTC Corporation
+BC:CF:CC	HTC Corporation
+A8:26:D9	HTC Corporation
+A0:F4:50	HTC Corporation
+90:21:55	HTC Corporation
+7C:61:93	HTC Corporation
+64:A7:69	HTC Corporation
+38:E7:D8	HTC Corporation
+1C:B0:94	HTC Corporation
+18:87:96	HTC Corporation
+00:23:76	HTC Corporation
+00:09:2D	HTC Corporation
+F4:C7:14	"Huawei Device Co., Ltd"
+CC:96:A0	"Huawei Device Co., Ltd"
+BC:76:70	"Huawei Device Co., Ltd"
+84:A8:E4	"Huawei Device Co., Ltd"
+5C:4C:A9	"Huawei Device Co., Ltd"
+54:A5:1B	"Huawei Device Co., Ltd"
+4C:54:99	"Huawei Device Co., Ltd"
+40:4D:8E	"Huawei Device Co., Ltd"
+30:87:30	"Huawei Device Co., Ltd"
+28:5F:DB	"Huawei Device Co., Ltd"
+24:DB:AC	"Huawei Device Co., Ltd"
+20:2B:C1	"Huawei Device Co., Ltd"
+1C:1D:67	"Huawei Device Co., Ltd"
+04:C0:6F	"Huawei Device Co., Ltd"
+D8:71:57	Lenovo Mobile Communication Technology Ltd.
+80:CF:41	Lenovo Mobile Communication Technology Ltd.
+14:9F:E8	Lenovo Mobile Communication Technology Ltd.
+00:12:FE	Lenovo Mobile Communication Technology Ltd.
+F8:0C:F3	LG Electronics
+F0:1C:13	LG Electronics
+E8:92:A4	LG Electronics
+A8:92:2C	LG Electronics
+A8:16:B2	LG Electronics
+74:A7:22	LG Electronics
+70:05:14	LG Electronics
+6C:D0:32	LG Electronics
+10:F9:6F	LG Electronics
+00:AA:70	LG Electronics
+00:26:E2	LG Electronics
+00:24:83	LG Electronics
+00:21:FB	LG Electronics
+00:1F:E3	LG Electronics
+00:1F:6B	LG Electronics
+00:1E:75	LG Electronics
+E8:5B:5B	LG ELECTRONICS INC
+C0:41:F6	LG Electronics Inc
+6C:D6:8A	LG Electronics Inc
+3C:BD:D8	LG ELECTRONICS INC
+20:21:A5	LG Electronics Inc
+00:25:E5	LG Electronics Inc
+00:22:A9	LG Electronics Inc
+00:1C:62	LG Electronics Inc
+00:E0:91	"LG ELECTRONICS, INC."
+80:96:B1	Motorola Mobility
+98:4B:4A	Motorola Mobility Inc.
+B0:79:94	Motorola Mobility LLC
+F8:7B:7A	"Motorola Mobility, Inc."
+E8:6D:52	"Motorola Mobility, Inc."
+E4:83:99	"Motorola Mobility, Inc."
+E4:64:49	"Motorola Mobility, Inc."
+DC:45:17	"Motorola Mobility, Inc."
+CC:7D:37	"Motorola Mobility, Inc."
+C8:AA:21	"Motorola Mobility, Inc."
+B0:77:AC	"Motorola Mobility, Inc."
+A4:ED:4E	"Motorola Mobility, Inc."
+A4:7A:A4	"Motorola Mobility, Inc."
+94:CC:B9	"Motorola Mobility, Inc."
+90:B1:34	"Motorola Mobility, Inc."
+7C:BF:B1	"Motorola Mobility, Inc."
+74:F6:12	"Motorola Mobility, Inc."
+74:E7:C6	"Motorola Mobility, Inc."
+74:56:12	"Motorola Mobility, Inc."
+70:7E:43	"Motorola Mobility, Inc."
+6C:C1:D2	"Motorola Mobility, Inc."
+64:ED:57	"Motorola Mobility, Inc."
+40:FC:89	"Motorola Mobility, Inc."
+40:B7:F3	"Motorola Mobility, Inc."
+3C:75:4A	"Motorola Mobility, Inc."
+3C:43:8E	"Motorola Mobility, Inc."
+38:6B:BB	"Motorola Mobility, Inc."
+2C:9E:5F	"Motorola Mobility, Inc."
+20:E5:64	"Motorola Mobility, Inc."
+1C:14:48	"Motorola Mobility, Inc."
+14:5B:D1	"Motorola Mobility, Inc."
+00:26:BA	"Motorola Mobility, Inc."
+00:26:36	"Motorola Mobility, Inc."
+00:25:F2	"Motorola Mobility, Inc."
+00:25:F1	"Motorola Mobility, Inc."
+00:24:C1	"Motorola Mobility, Inc."
+00:24:A1	"Motorola Mobility, Inc."
+00:24:A0	"Motorola Mobility, Inc."
+00:24:95	"Motorola Mobility, Inc."
+00:23:EE	"Motorola Mobility, Inc."
+00:23:AF	"Motorola Mobility, Inc."
+00:23:A3	"Motorola Mobility, Inc."
+00:23:A2	"Motorola Mobility, Inc."
+00:23:95	"Motorola Mobility, Inc."
+00:23:75	"Motorola Mobility, Inc."
+00:23:74	"Motorola Mobility, Inc."
+00:23:0B	"Motorola Mobility, Inc."
+00:22:B4	"Motorola Mobility, Inc."
+00:22:10	"Motorola Mobility, Inc."
+00:21:80	"Motorola Mobility, Inc."
+00:21:43	"Motorola Mobility, Inc."
+00:21:36	"Motorola Mobility, Inc."
+00:21:1E	"Motorola Mobility, Inc."
+00:1F:C4	"Motorola Mobility, Inc."
+00:1F:7E	"Motorola Mobility, Inc."
+00:1E:8D	"Motorola Mobility, Inc."
+00:1E:5A	"Motorola Mobility, Inc."
+00:1E:46	"Motorola Mobility, Inc."
+00:1D:BE	"Motorola Mobility, Inc."
+00:1C:FB	"Motorola Mobility, Inc."
+00:1C:C1	"Motorola Mobility, Inc."
+00:1C:12	"Motorola Mobility, Inc."
+00:1C:11	"Motorola Mobility, Inc."
+00:1B:DD	"Motorola Mobility, Inc."
+00:1B:52	"Motorola Mobility, Inc."
+00:1A:DE	"Motorola Mobility, Inc."
+00:1A:DB	"Motorola Mobility, Inc."
+00:1A:AD	"Motorola Mobility, Inc."
+00:1A:77	"Motorola Mobility, Inc."
+00:1A:66	"Motorola Mobility, Inc."
+00:1A:1B	"Motorola Mobility, Inc."
+00:19:C0	"Motorola Mobility, Inc."
+00:19:A6	"Motorola Mobility, Inc."
+00:19:5E	"Motorola Mobility, Inc."
+00:19:2C	"Motorola Mobility, Inc."
+00:18:C0	"Motorola Mobility, Inc."
+00:18:A4	"Motorola Mobility, Inc."
+00:17:EE	"Motorola Mobility, Inc."
+00:17:E2	"Motorola Mobility, Inc."
+00:17:84	"Motorola Mobility, Inc."
+00:17:00	"Motorola Mobility, Inc."
+00:16:B5	"Motorola Mobility, Inc."
+00:16:75	"Motorola Mobility, Inc."
+00:16:26	"Motorola Mobility, Inc."
+00:15:A8	"Motorola Mobility, Inc."
+00:15:9A	"Motorola Mobility, Inc."
+00:15:2F	"Motorola Mobility, Inc."
+00:14:E8	"Motorola Mobility, Inc."
+00:14:9A	"Motorola Mobility, Inc."
+00:14:04	"Motorola Mobility, Inc."
+00:13:71	"Motorola Mobility, Inc."
+00:12:C9	"Motorola Mobility, Inc."
+00:12:8A	"Motorola Mobility, Inc."
+00:12:25	"Motorola Mobility, Inc."
+00:11:AE	"Motorola Mobility, Inc."
+00:11:80	"Motorola Mobility, Inc."
+00:11:1A	"Motorola Mobility, Inc."
+00:0F:9F	"Motorola Mobility, Inc."
+00:0E:5C	"Motorola Mobility, Inc."
+00:0C:E5	"Motorola Mobility, Inc."
+00:0B:06	"Motorola Mobility, Inc."
+00:08:0E	"Motorola Mobility, Inc."
+00:04:BD	"Motorola Mobility, Inc."
+FC:E5:57	Nokia Corporation
+F8:5F:2A	Nokia Corporation
+F4:8E:09	Nokia Corporation
+EC:9B:5B	Nokia Corporation
+E8:CB:A1	Nokia Corporation
+E4:EC:10	Nokia Corporation
+E0:A6:70	Nokia Corporation
+DC:9F:A4	Nokia Corporation
+D8:75:33	Nokia Corporation
+D8:2A:7E	Nokia Corporation
+D4:CB:AF	Nokia Corporation
+D4:C1:FC	Nokia Corporation
+D4:5D:42	Nokia Corporation
+D0:DB:32	Nokia Corporation
+C8:DF:7C	Nokia Corporation
+C8:97:9F	Nokia Corporation
+C8:3D:97	Nokia Corporation
+B0:5C:E5	Nokia Corporation
+B0:35:8D	Nokia Corporation
+AC:93:2F	Nokia Corporation
+AC:81:F3	Nokia Corporation
+A8:E0:18	Nokia Corporation
+A8:7B:39	Nokia Corporation
+A4:E7:31	Nokia Corporation
+A0:F4:19	Nokia Corporation
+A0:71:A9	Nokia Corporation
+A0:4E:04	Nokia Corporation
+9C:CA:D9	Nokia Corporation
+9C:4A:7B	Nokia Corporation
+94:3A:F0	Nokia Corporation
+94:20:53	Nokia Corporation
+94:00:70	Nokia Corporation
+90:CF:15	Nokia Corporation
+80:50:1B	Nokia Corporation
+78:CA:04	Nokia Corporation
+78:2E:EF	Nokia Corporation
+6C:E9:07	Nokia Corporation
+6C:A7:80	Nokia Corporation
+6C:9B:02	Nokia Corporation
+5C:57:C8	Nokia Corporation
+50:2D:1D	Nokia Corporation
+48:DC:FB	Nokia Corporation
+3C:F7:2A	Nokia Corporation
+3C:36:3D	Nokia Corporation
+38:19:2F	Nokia Corporation
+34:C8:03	Nokia Corporation
+30:38:55	Nokia Corporation
+2C:D2:E7	Nokia Corporation
+28:D1:AF	Nokia Corporation
+20:D6:07	Nokia Corporation
+18:14:56	Nokia Corporation
+14:36:05	Nokia Corporation
+10:F9:EE	Nokia Corporation
+0C:DD:EF	Nokia Corporation
+0C:C6:6A	Nokia Corporation
+04:A8:2A	Nokia Corporation
+04:5A:95	Nokia Corporation
+00:BD:3A	Nokia Corporation
+00:19:2D	Nokia Corporation
+C0:38:F9	Nokia Danmark A/S
+A8:7E:33	Nokia Danmark A/S
+9C:18:74	Nokia Danmark A/S
+34:7E:39	Nokia Danmark A/S
+18:86:AC	Nokia Danmark A/S
+00:26:CC	Nokia Danmark A/S
+00:26:69	Nokia Danmark A/S
+00:26:68	Nokia Danmark A/S
+00:25:D0	Nokia Danmark A/S
+00:25:CF	Nokia Danmark A/S
+00:25:48	Nokia Danmark A/S
+00:25:47	Nokia Danmark A/S
+00:24:7D	Nokia Danmark A/S
+00:24:7C	Nokia Danmark A/S
+00:24:04	Nokia Danmark A/S
+00:24:03	Nokia Danmark A/S
+00:23:B4	Nokia Danmark A/S
+00:22:FD	Nokia Danmark A/S
+00:22:FC	Nokia Danmark A/S
+00:22:66	Nokia Danmark A/S
+00:22:65	Nokia Danmark A/S
+00:21:FE	Nokia Danmark A/S
+00:21:FC	Nokia Danmark A/S
+00:21:AB	Nokia Danmark A/S
+00:21:AA	Nokia Danmark A/S
+00:21:09	Nokia Danmark A/S
+00:21:08	Nokia Danmark A/S
+00:1F:DF	Nokia Danmark A/S
+00:1F:DE	Nokia Danmark A/S
+00:1F:5D	Nokia Danmark A/S
+00:1F:5C	Nokia Danmark A/S
+00:1F:01	Nokia Danmark A/S
+00:1F:00	Nokia Danmark A/S
+00:1E:A4	Nokia Danmark A/S
+00:1E:A3	Nokia Danmark A/S
+00:1E:3B	Nokia Danmark A/S
+00:1E:3A	Nokia Danmark A/S
+00:1D:FD	Nokia Danmark A/S
+00:1D:E9	Nokia Danmark A/S
+00:1D:98	Nokia Danmark A/S
+00:1D:6E	Nokia Danmark A/S
+00:1D:3B	Nokia Danmark A/S
+00:1C:D6	Nokia Danmark A/S
+00:1C:D4	Nokia Danmark A/S
+00:1C:9A	Nokia Danmark A/S
+00:1C:35	Nokia Danmark A/S
+00:1B:EE	Nokia Danmark A/S
+00:1B:AF	Nokia Danmark A/S
+00:1B:33	Nokia Danmark A/S
+00:1A:DC	Nokia Danmark A/S
+00:1A:89	Nokia Danmark A/S
+00:1A:16	Nokia Danmark A/S
+00:19:B7	Nokia Danmark A/S
+00:19:79	Nokia Danmark A/S
+00:19:4F	Nokia Danmark A/S
+00:18:C5	Nokia Danmark A/S
+00:18:8D	Nokia Danmark A/S
+00:18:42	Nokia Danmark A/S
+00:18:0F	Nokia Danmark A/S
+00:17:B0	Nokia Danmark A/S
+00:17:4B	Nokia Danmark A/S
+00:16:BC	Nokia Danmark A/S
+00:16:4E	Nokia Danmark A/S
+00:15:DE	Nokia Danmark A/S
+00:15:A0	Nokia Danmark A/S
+00:14:A7	Nokia Danmark A/S
+00:13:FD	Nokia Danmark A/S
+00:13:70	Nokia Danmark A/S
+00:12:62	Nokia Danmark A/S
+00:11:9F	Nokia Danmark A/S
+00:0E:ED	Nokia Danmark A/S
+00:02:EE	Nokia Danmark A/S
+E8:3E:B6	RIM
+CC:55:AD	RIM
+A8:6A:6F	RIM
+A0:6C:EC	RIM
+80:60:07	RIM
+70:D4:F2	RIM
+40:6A:AB	RIM
+40:5F:BE	RIM
+3C:74:37	RIM
+30:7C:30	RIM
+30:69:4B	RIM
+2C:A8:35	RIM
+14:74:11	RIM
+00:23:7A	RIM
+DC:71:44	Samsung Electro Mechanics
+98:0C:82	Samsung Electro Mechanics
+78:D6:F0	Samsung Electro Mechanics
+50:CC:F8	Samsung Electro Mechanics
+90:18:7C	"Samsung Electro Mechanics co., LTD."
+20:64:32	"SAMSUNG ELECTRO MECHANICS CO.,LTD."
+B4:07:F9	SAMSUNG ELECTRO-MECHANICS
+A0:0B:BA	SAMSUNG ELECTRO-MECHANICS
+38:AA:3C	SAMSUNG ELECTRO-MECHANICS
+00:26:37	Samsung Electro-Mechanics
+00:21:19	Samsung Electro-Mechanics
+84:0B:2D	"SAMSUNG ELECTRO-MECHANICS CO., LTD"
+5C:0A:5B	"SAMSUNG ELECTRO-MECHANICS CO., LTD."
+00:02:78	"Samsung Electro-Mechanics Co., Ltd."
+FC:A1:3E	Samsung Electronics
+F4:9F:54	Samsung Electronics
+D8:57:EF	Samsung Electronics
+D4:E8:B2	Samsung Electronics
+D4:87:D8	Samsung Electronics
+CC:FE:3C	Samsung Electronics
+BC:B1:F3	Samsung Electronics
+BC:85:1F	Samsung Electronics
+BC:20:A4	Samsung Electronics
+B8:D9:CE	Samsung Electronics
+A8:F2:74	Samsung Electronics
+A0:07:98	Samsung Electronics
+98:52:B1	Samsung Electronics
+94:51:03	Samsung Electronics
+70:F9:27	Samsung Electronics
+5C:E8:EB	Samsung Electronics
+58:C3:8B	Samsung Electronics
+54:9B:12	Samsung Electronics
+50:01:BB	Samsung Electronics
+44:F4:59	Samsung Electronics
+3C:8B:FE	Samsung Electronics
+3C:5A:37	Samsung Electronics
+38:EC:E4	Samsung Electronics
+34:C3:AC	Samsung Electronics
+1C:66:AA	Samsung Electronics
+18:E2:C2	Samsung Electronics
+18:46:17	Samsung Electronics
+14:89:FD	Samsung Electronics
+08:D4:2B	Samsung Electronics
+00:E0:64	SAMSUNG ELECTRONICS
+00:26:5D	Samsung Electronics
+00:25:67	Samsung Electronics
+00:24:91	Samsung Electronics
+00:23:D7	Samsung Electronics
+00:23:39	Samsung Electronics
+00:1F:CD	Samsung Electronics
+00:16:6B	Samsung Electronics
+00:12:FB	Samsung Electronics
+F4:D9:FB	"Samsung Electronics CO., LTD"
+EC:E0:9B	"Samsung electronics CO., LTD"
+E4:E0:C5	"Samsung Electronics Co., LTD"
+E4:7C:F9	"Samsung Electronics Co., LTD"
+D0:66:7B	"Samsung Electronics Co., LTD"
+8C:C8:CD	"Samsung Electronics Co., LTD"
+60:6B:BD	"Samsung Electronics Co., LTD"
+48:44:F7	"Samsung Electronics Co., LTD"
+3C:62:00	"Samsung electronics CO., LTD"
+00:24:54	"Samsung Electronics Co., LTD"
+00:15:99	"Samsung Electronics Co., LTD"
+00:13:77	"Samsung Electronics CO., LTD"
+78:25:AD	"SAMSUNG ELECTRONICS CO., LTD."
+00:21:4C	"SAMSUNG ELECTRONICS CO., LTD."
+00:1B:98	"Samsung Electronics Co., Ltd."
+00:1A:8A	"Samsung Electronics Co., Ltd."
+00:18:AF	"Samsung Electronics Co., Ltd."
+00:17:D5	"Samsung Electronics Co., Ltd."
+00:17:C9	"Samsung Electronics Co., Ltd."
+00:16:DB	"Samsung Electronics Co., Ltd."
+00:16:32	"SAMSUNG ELECTRONICS CO., LTD."
+00:15:B9	"Samsung Electronics Co., Ltd."
+00:12:47	"Samsung Electronics Co., Ltd."
+00:00:F0	"SAMSUNG ELECTRONICS CO., LTD."
+FC:C7:34	"Samsung Electronics Co.,Ltd"
+F8:D0:BD	"Samsung Electronics Co.,Ltd"
+F0:E7:7E	"Samsung Electronics Co.,Ltd"
+F0:08:F1	"Samsung Electronics Co.,Ltd"
+E8:E5:D6	"Samsung Electronics Co.,Ltd"
+E8:11:32	"Samsung Electronics Co.,LTD"
+E8:03:9A	"Samsung Electronics Co.,LTD"
+E4:B0:21	"Samsung Electronics Co.,Ltd"
+D4:88:90	"Samsung Electronics Co.,Ltd"
+D0:DF:C7	"Samsung Electronics Co.,Ltd"
+D0:C1:B1	"Samsung Electronics Co.,Ltd"
+D0:17:6A	"Samsung Electronics Co.,Ltd"
+CC:F9:E8	"Samsung Electronics Co.,Ltd"
+CC:05:1B	"Samsung Electronics Co.,Ltd"
+C8:7E:75	"Samsung Electronics Co.,Ltd"
+C8:19:F7	"Samsung Electronics Co.,Ltd"
+BC:47:60	"Samsung Electronics Co.,Ltd"
+B8:C6:8E	"Samsung Electronics Co.,Ltd"
+B4:62:93	"Samsung Electronics Co.,Ltd"
+B0:EC:71	"Samsung Electronics Co.,Ltd"
+B0:D0:9C	"Samsung Electronics Co.,Ltd"
+A0:75:91	"Samsung Electronics Co.,Ltd"
+9C:02:98	"Samsung Electronics Co.,Ltd"
+94:63:D1	"Samsung Electronics Co.,Ltd"
+8C:77:12	"Samsung Electronics Co.,Ltd"
+8C:71:F8	"Samsung Electronics Co.,Ltd"
+84:25:DB	"Samsung Electronics Co.,Ltd"
+78:59:5E	"Samsung Electronics Co.,Ltd"
+78:47:1D	"Samsung Electronics Co.,Ltd"
+74:45:8A	"Samsung Electronics Co.,Ltd"
+6C:83:36	"Samsung Electronics Co.,Ltd"
+68:EB:AE	"Samsung Electronics Co.,Ltd"
+60:D0:A9	"Samsung Electronics Co.,Ltd"
+60:A1:0A	"Samsung Electronics Co.,Ltd"
+54:92:BE	"Samsung Electronics Co.,Ltd"
+50:B7:C3	"Samsung Electronics Co.,LTD"
+4C:BC:A5	"Samsung Electronics Co.,Ltd"
+44:4E:1A	"Samsung Electronics Co.,Ltd"
+38:16:D1	"Samsung Electronics Co.,Ltd"
+38:0A:94	"Samsung Electronics Co.,Ltd"
+2C:44:01	"Samsung Electronics Co.,Ltd"
+28:98:7B	"Samsung Electronics Co.,Ltd"
+20:13:E0	"Samsung Electronics Co.,Ltd"
+1C:62:B8	"Samsung Electronics Co.,Ltd"
+18:3F:47	"Samsung Electronics Co.,Ltd"
+10:1D:C0	"Samsung Electronics Co.,Ltd"
+0C:DF:A4	"Samsung Electronics Co.,Ltd"
+0C:71:5D	"Samsung Electronics Co.,Ltd"
+0C:14:20	"Samsung Electronics Co.,Ltd"
+04:FE:31	"Samsung Electronics Co.,Ltd"
+04:18:0F	"Samsung Electronics Co.,Ltd"
+00:26:5F	"Samsung Electronics Co.,Ltd"
+00:25:66	"Samsung Electronics Co.,Ltd"
+00:24:90	"Samsung Electronics Co.,LTD"
+00:23:D6	"Samsung Electronics Co.,LTD"
+00:23:3A	"Samsung Electronics Co.,Ltd"
+00:21:D2	"Samsung Electronics Co.,Ltd"
+00:21:D1	"Samsung Electronics Co.,Ltd"
+00:1F:CC	"Samsung Electronics Co.,Ltd"
+00:1E:E2	"Samsung Electronics Co.,Ltd"
+00:1E:E1	"Samsung Electronics Co.,Ltd"
+00:1E:7D	"Samsung Electronics Co.,Ltd"
+00:1D:F6	"Samsung Electronics Co.,Ltd"
+00:1D:25	"Samsung Electronics Co.,Ltd"
+00:1C:43	"Samsung Electronics Co.,Ltd"
+00:07:AB	"Samsung Electronics Co.,Ltd"
+00:23:C2	SAMSUNG Electronics. Co. LTD
+C4:73:1E	"Samsung Eletronics Co., Ltd"
+80:18:A7	"Samsung Eletronics Co., Ltd"
+20:D5:BF	"Samsung Eletronics Co., Ltd"
+24:21:AB	Sony Ericsson Mobile Communications
+00:25:E7	Sony Ericsson Mobile Communications
+00:24:EF	Sony Ericsson Mobile Communications
+00:23:F1	Sony Ericsson Mobile Communications
+00:23:45	Sony Ericsson Mobile Communications
+00:22:98	Sony Ericsson Mobile Communications
+00:21:9E	Sony Ericsson Mobile Communications
+00:1F:E4	Sony Ericsson Mobile Communications
+00:1C:A4	Sony Ericsson Mobile Communications
+00:1A:75	Sony Ericsson Mobile Communications
+00:18:13	Sony Ericsson Mobile Communications
+00:16:B8	Sony Ericsson Mobile Communications
+B8:F9:34	Sony Ericsson Mobile Communications AB
+90:C1:15	Sony Ericsson Mobile Communications AB
+8C:64:22	Sony Ericsson Mobile Communications AB
+84:00:D2	Sony Ericsson Mobile Communications AB
+6C:23:B9	Sony Ericsson Mobile Communications AB
+6C:0E:0D	Sony Ericsson Mobile Communications AB
+5C:B5:24	Sony Ericsson Mobile Communications AB
+58:17:0C	Sony Ericsson Mobile Communications AB
+40:2B:A1	Sony Ericsson Mobile Communications AB
+30:39:26	Sony Ericsson Mobile Communications AB
+30:17:C8	Sony Ericsson Mobile Communications AB
+00:1E:DC	Sony Ericsson Mobile Communications AB
+00:1E:45	Sony Ericsson Mobile Communications AB
+00:1D:28	Sony Ericsson Mobile Communications AB
+00:1B:59	Sony Ericsson Mobile Communications AB
+00:19:63	Sony Ericsson Mobile Communications AB
+00:16:20	Sony Ericsson Mobile Communications AB
+00:12:EE	Sony Ericsson Mobile Communications AB
+00:0F:DE	Sony Ericsson Mobile Communications AB
+00:0E:07	Sony Ericsson Mobile Communications AB
+00:0A:D9	Sony Ericsson Mobile Communications AB
+D0:51:62	Sony Mobile Communications AB
+20:54:76	Sony Mobile Communications AB
+C4:6A:B7	"Xiaomi Technology,Inc."
+FC:C8:97	ZTE Corporation
+F4:6D:E2	zte corporation
+DC:02:8E	zte corporation
+D0:15:4A	zte corporation
+C8:7B:5B	zte corporation
+C8:64:C7	zte corporation
+B4:B3:62	ZTE Corporation
+B0:75:D5	ZTE Corporation
+9C:D2:4B	zte corporation
+98:F5:37	zte corporation
+8C:E0:81	zte corporation
+84:74:2A	zte corporation
+68:1A:B2	zte corporation
+4C:AC:0A	ZTE Corporation
+4C:09:B4	zte corporation
+48:28:2F	ZTE Corporation
+38:46:08	ZTE Corporation
+34:E0:CF	zte corporation
+34:4B:50	ZTE Corporation
+08:18:1A	zte corporation
+00:26:ED	zte corporation
+00:25:12	ZTE Corporation
+00:22:93	ZTE Corporation
+00:1E:73	ZTE CORPORATION
+00:19:C6	ZTE Corporation
+00:15:EB	ZTE CORPORATION

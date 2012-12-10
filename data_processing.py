@@ -14,7 +14,7 @@ walk_in_rule		 = 'walk_in_r2'		# select rule walk_in_rX, x in [1,2,3], to filter
 # read raw data from MySQL table: box_upload
 con 	 = MySQLdb.connect("localhost","guest","guest123","TEST" )
 cur 	 = con.cursor()
-read_raw = "SELECT * FROM box_upload LIMIT 0, 10"
+read_raw = "SELECT * FROM box_upload LIMIT 0, 20000"
 
 try:
    cur.execute(read_raw)
@@ -84,31 +84,32 @@ find_bracket = lambda x: x - datetime.timedelta(minutes=x.minute % 3, seconds=x.
 clean['t_bracket'] = clean['start_time'].apply(find_bracket)
 # print clean[:99] # clean before dropping columns and reindexing
 
-clean = clean.drop('sig_str', axis=1).reindex(columns=['phone_id','start_time', 'end_time','dwell_time',\
-													   'max_str','avg_str','walk_in_r1','walk_in_r2','walk_in_r3','t_bracket'])
-# print clean #clean after all cleaning and format change
+# filter out devices that are not manufactured by a major phone manufacturer
+prefix_map = pd.read_table('prefix_mapping.txt', delimiter='\t', names=['Prefix','Manuf'], index_col='Prefix')
+apply_filter = lambda x: prefix_map.xs(x[0:8].upper()) if x[0:8].upper() in prefix_map.index else 'Not Phone'
+clean['manuf'] = clean['phone_id'].apply(apply_filter)
+clean = clean[clean['manuf'] != 'Not Phone']
 
-# write clean into MySQL table: clean
-write_clean = """INSERT INTO clean(phone_id,start_time,end_time,dwell_time, \
-				           max_str,avg_str,walk_in_r1,walk_in_r2,walk_in_r3,t_bracket) \
-		 		 		VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
+# dropping the element containing a list of signal strengths
+clean = clean.drop('sig_str', axis=1).reindex(columns=['phone_id','start_time', 'end_time','dwell_time','max_str','avg_str', \
+													   'manuf','walk_in_r1','walk_in_r2','walk_in_r3','t_bracket'])
+# print clean[:100] #clean after all cleaning and format change
 
-for row_index, row in clean.iterrows():	
-	try:
-		cur.execute(write_clean,(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9]))
-		con.commit()
-	except:
-		print 'Error while writing to MySQL table: Clean'
+print clean[:99]
+# print len(clean[clean['manuf']=='Not Phone'])
+
+# # write clean into MySQL table: clean
+# write_clean = """INSERT INTO clean(phone_id,start_time,end_time,dwell_time, \
+# 				           max_str,avg_str,walk_in_r1,walk_in_r2,walk_in_r3,t_bracket) \
+# 		 		 		VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
+
+# for row_index, row in clean.iterrows():	
+# 	try:
+# 		cur.execute(write_clean,(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9]))
+# 		con.commit()
+# 	except:
+# 		print 'Error while writing to MySQL table: Clean'
 		
-# # delete rows just been processed from MySQL table: box_upload
-# reduce_raw = """DELETE FROM box_upload LIMIT 10"""
-
-# try: 
-# 	cur.execute(reduce_raw)
-# 	con.commit()
-# except:
-# 	con.rollback()
-# 	print 'Error while reducing MySQL table: box_upload'
 
 con.close()
 
